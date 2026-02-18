@@ -50,3 +50,6 @@ coverage/
 # Misc
 .cache/
 tmp/
+
+.playwright-cli/
+.playwright/
