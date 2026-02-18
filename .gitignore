@@ -1,0 +1,52 @@
+# Dependencies
+node_modules/
+
+# Build outputs
+dist/
+out/
+.vite/
+
+# Electron
+.webpack/
+
+# iOS / Xcode
+ios/Preacher/DerivedData/
+ios/Preacher/build/
+*.xcworkspace/xcuserdata/
+*.xcodeproj/xcuserdata/
+*.xcodeproj/project.xcworkspace/xcuserdata/
+xcuserdata/
+
+# Database
+*.sqlite
+*.sqlite-journal
+*.sqlite-wal
+
+# Environment / secrets
+.env
+.env.local
+.env.*.local
+*.p8
+*.p12
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Test coverage
+coverage/
+
+# Misc
+.cache/
+tmp/

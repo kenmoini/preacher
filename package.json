@@ -1,0 +1,23 @@
+{
+  "name": "ios-preacher",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Pulpit + Preacher: Open-source self-hosted push notification platform for iOS",
+  "workspaces": [
+    "server"
+  ],
+  "scripts": {
+    "start": "npm run start --workspace=server",
+    "build": "npm run build --workspace=server",
+    "test": "npm run test --workspace=server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kenmoini/ios-preacher"
+  },
+  "license": "Apache-2.0",
+  "author": "Ken Moini",
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.1.18"
+  }
+}
