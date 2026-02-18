@@ -52,7 +52,7 @@ External Services          Pulpit Server (Electron)         iOS Device
 ## Monorepo Structure
 
 ```
-ios-preacher/
+preacher/
   package.json                # npm workspaces root
   tsconfig.base.json
   LICENSE                     # Apache-2.0

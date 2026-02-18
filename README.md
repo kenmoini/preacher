@@ -51,8 +51,8 @@ External Services          Pulpit Server (Electron)         iOS Device
 ### 1. Clone and install
 
 ```bash
-git clone https://github.com/kenmoini/ios-preacher.git
-cd ios-preacher
+git clone https://github.com/kenmoini/preacher.git
+cd preacher
 npm install
 ```
 
@@ -83,7 +83,7 @@ In the Preacher app, enter your server URL and device name. The app will registe
 ## Project Structure
 
 ```
-ios-preacher/
+preacher/
   package.json              # npm workspaces root
   server/                   # Pulpit - Electron server
     src/

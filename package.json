@@ -1,5 +1,5 @@
 {
-  "name": "ios-preacher",
+  "name": "preacher",
   "private": true,
   "version": "0.1.0",
   "description": "Pulpit + Preacher: Open-source self-hosted push notification platform for iOS",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/kenmoini/ios-preacher"
+    "url": "https://github.com/kenmoini/preacher"
   },
   "license": "Apache-2.0",
   "author": "Ken Moini",

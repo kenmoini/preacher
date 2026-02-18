@@ -31,7 +31,7 @@ You need an Apple Developer account ($99/year) to:
 ### 1. Install dependencies
 
 ```bash
-cd ios-preacher
+cd preacher
 npm install
 ```
 

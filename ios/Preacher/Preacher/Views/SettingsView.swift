@@ -99,7 +99,7 @@ struct SettingsView: View {
                 } header: {
                     Text("About")
                 } footer: {
-                    Text("Preacher - Open source push notification client for iOS\nhttps://github.com/kenmoini/ios-preacher")
+                    Text("Preacher - Open source push notification client for iOS\nhttps://github.com/kenmoini/preacher")
                 }
             }
             .navigationTitle("Settings")
